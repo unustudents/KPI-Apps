@@ -1,0 +1,295 @@
+{
+  "communities": {
+    "0": [
+      "app_menu_identitas_page_tsx",
+      "app_menu_incidents_components_incidentlist_tsx",
+      "app_page_dashboardpage",
+      "app_page_tsx",
+      "app_sla_monitor_context_monitoractions_tsx",
+      "components_incidentlist_incidentlist",
+      "context_monitoractions_usemonitoractions",
+      "context_slaprovider_usesla",
+      "identitas_page_identitaspage"
+    ],
+    "1": [
+      "app_sla_monitor_utils_formatters_ts",
+      "utils_formatters_fmtduration",
+      "utils_formatters_formatdate",
+      "utils_formatters_formatdt",
+      "utils_formatters_formattimerstring",
+      "utils_formatters_getcurrentmonth",
+      "utils_formatters_pad",
+      "utils_formatters_tolocalinput"
+    ],
+    "2": [
+      "app_sla_monitor_context_slaprovider_tsx",
+      "app_sla_monitor_hooks_useconfig_ts",
+      "app_sla_monitor_hooks_useincidents_ts",
+      "app_sla_monitor_hooks_usetoast_ts",
+      "context_slaprovider_slaprovider",
+      "hooks_useconfig_useconfig",
+      "hooks_useincidents_useincidents",
+      "hooks_usetoast_usetoast"
+    ],
+    "3": [
+      "app_sla_monitor_components_newincidentmodal_tsx",
+      "app_sla_monitor_utils_seed_data_ts",
+      "components_newincidentmodal_handlesave",
+      "components_newincidentmodal_toggleunit",
+      "utils_formatters_uid",
+      "utils_seed_data_createseeddata"
+    ],
+    "4": [
+      "app_sla_monitor_components_monitorshell_tsx",
+      "components_monitorshell_handleendincident",
+      "components_monitorshell_handlefab"
+    ],
+    "5": [
+      "app_sla_monitor_utils_calculations_ts",
+      "utils_calculations_calcmetrics",
+      "utils_calculations_getmonthincidents"
+    ],
+    "6": [
+      "next_logo",
+      "readme_sla_monitor",
+      "vercel_logo"
+    ],
+    "7": [
+      "app_menu_identitas_components_identityform_tsx",
+      "components_identityform_handlesave"
+    ],
+    "8": [
+      "app_menu_incidents_page_tsx",
+      "incidents_page_incidentspage"
+    ],
+    "9": [
+      "app_sla_monitor_components_fab_tsx",
+      "components_fab_fab"
+    ],
+    "10": [
+      "app_sla_monitor_components_sidebar_tsx",
+      "components_sidebar_sidebar"
+    ],
+    "11": [
+      "app_sla_monitor_components_endincidentmodal_tsx",
+      "components_endincidentmodal_handleend"
+    ],
+    "12": [
+      "app_sla_monitor_components_toast_tsx",
+      "components_toast_toast"
+    ],
+    "13": [
+      "next_env_d_ts"
+    ],
+    "14": [
+      "postcss_config_mjs"
+    ],
+    "15": [
+      "eslint_config_mjs"
+    ],
+    "16": [
+      "next_config_ts"
+    ],
+    "17": [
+      "app_layout_tsx"
+    ],
+    "18": [
+      "app_sla_monitor_types_ts"
+    ],
+    "19": [
+      "app_sla_monitor_components_incidenttable_tsx"
+    ],
+    "20": [
+      "app_sla_monitor_utils_constants_ts"
+    ],
+    "21": [
+      "agents_breaking_changes"
+    ],
+    "22": [
+      "claude_agent_rules"
+    ],
+    "23": [
+      "window_icon"
+    ],
+    "24": [
+      "globe_icon"
+    ],
+    "25": [
+      "file_icon"
+    ]
+  },
+  "cohesion": {
+    "0": 0.22,
+    "1": 0.36,
+    "2": 0.25,
+    "3": 0.33,
+    "4": 0.67,
+    "5": 1.0,
+    "6": 0.67,
+    "7": 1.0,
+    "8": 1.0,
+    "9": 1.0,
+    "10": 1.0,
+    "11": 1.0,
+    "12": 1.0,
+    "13": 1.0,
+    "14": 1.0,
+    "15": 1.0,
+    "16": 1.0,
+    "17": 1.0,
+    "18": 1.0,
+    "19": 1.0,
+    "20": 1.0,
+    "21": 1.0,
+    "22": 1.0,
+    "23": 1.0,
+    "24": 1.0,
+    "25": 1.0
+  },
+  "gods": [
+    {
+      "id": "utils_formatters_pad",
+      "label": "pad()",
+      "degree": 4
+    },
+    {
+      "id": "context_slaprovider_usesla",
+      "label": "useSLA()",
+      "degree": 4
+    },
+    {
+      "id": "context_slaprovider_slaprovider",
+      "label": "SLAProvider()",
+      "degree": 4
+    },
+    {
+      "id": "components_incidentlist_incidentlist",
+      "label": "IncidentList()",
+      "degree": 3
+    },
+    {
+      "id": "utils_formatters_uid",
+      "label": "uid()",
+      "degree": 3
+    },
+    {
+      "id": "app_page_dashboardpage",
+      "label": "DashboardPage()",
+      "degree": 2
+    },
+    {
+      "id": "identitas_page_identitaspage",
+      "label": "IdentitasPage()",
+      "degree": 2
+    },
+    {
+      "id": "components_newincidentmodal_handlesave",
+      "label": "handleSave()",
+      "degree": 2
+    },
+    {
+      "id": "utils_formatters_formatdate",
+      "label": "formatDate()",
+      "degree": 2
+    },
+    {
+      "id": "utils_formatters_formatdt",
+      "label": "formatDT()",
+      "degree": 2
+    }
+  ],
+  "surprises": [
+    {
+      "source": "SLA Monitor Application",
+      "target": "Next.js Logo",
+      "source_files": [
+        "README.md",
+        "public/next.svg"
+      ],
+      "confidence": "INFERRED",
+      "relation": "uses_framework",
+      "why": "inferred connection - not explicitly stated in source; crosses file types (doc \u2194 image); connects across different repos/directories"
+    },
+    {
+      "source": "DashboardPage()",
+      "target": "useSLA()",
+      "source_files": [
+        "app/page.tsx",
+        "app/sla-monitor/context/SLAProvider.tsx"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source"
+    },
+    {
+      "source": "IdentitasPage()",
+      "target": "useSLA()",
+      "source_files": [
+        "app/(menu)/identitas/page.tsx",
+        "app/sla-monitor/context/SLAProvider.tsx"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source"
+    },
+    {
+      "source": "IncidentList()",
+      "target": "useSLA()",
+      "source_files": [
+        "app/(menu)/incidents/components/IncidentList.tsx",
+        "app/sla-monitor/context/SLAProvider.tsx"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source"
+    },
+    {
+      "source": "IncidentList()",
+      "target": "useMonitorActions()",
+      "source_files": [
+        "app/(menu)/incidents/components/IncidentList.tsx",
+        "app/sla-monitor/context/MonitorActions.tsx"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `useSLA()` connect `Community 0` to `Community 2`?",
+      "why": "High betweenness centrality (0.042) - this node is a cross-community bridge."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `uid()` connect `Community 3` to `Community 1`?",
+      "why": "High betweenness centrality (0.023) - this node is a cross-community bridge."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 3 inferred relationships involving `useSLA()` (e.g. with `DashboardPage()` and `IdentitasPage()`) actually correct?",
+      "why": "`useSLA()` has 3 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 3 inferred relationships involving `SLAProvider()` (e.g. with `useIncidents()` and `useConfig()`) actually correct?",
+      "why": "`SLAProvider()` has 3 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 2 inferred relationships involving `IncidentList()` (e.g. with `useSLA()` and `useMonitorActions()`) actually correct?",
+      "why": "`IncidentList()` has 2 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 2 inferred relationships involving `uid()` (e.g. with `handleSave()` and `createSeedData()`) actually correct?",
+      "why": "`uid()` has 2 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "isolated_nodes",
+      "question": "What connects `Next.js Breaking Changes`, `SLA Monitor Application`, `Claude Agent Rules` to the rest of the system?",
+      "why": "7 weakly-connected nodes found - possible documentation gaps or missing edges."
+    }
+  ]
+}

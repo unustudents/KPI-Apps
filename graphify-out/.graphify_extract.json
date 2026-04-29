@@ -1,0 +1,1412 @@
+{
+  "nodes": [
+    {
+      "id": "next_env_d_ts",
+      "label": "next-env.d.ts",
+      "file_type": "code",
+      "source_file": "next-env.d.ts",
+      "source_location": "L1"
+    },
+    {
+      "id": "postcss_config_mjs",
+      "label": "postcss.config.mjs",
+      "file_type": "code",
+      "source_file": "postcss.config.mjs",
+      "source_location": "L1"
+    },
+    {
+      "id": "eslint_config_mjs",
+      "label": "eslint.config.mjs",
+      "file_type": "code",
+      "source_file": "eslint.config.mjs",
+      "source_location": "L1"
+    },
+    {
+      "id": "next_config_ts",
+      "label": "next.config.ts",
+      "file_type": "code",
+      "source_file": "next.config.ts",
+      "source_location": "L1"
+    },
+    {
+      "id": "app_page_tsx",
+      "label": "page.tsx",
+      "file_type": "code",
+      "source_file": "app/page.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "app_page_dashboardpage",
+      "label": "DashboardPage()",
+      "file_type": "code",
+      "source_file": "app/page.tsx",
+      "source_location": "L5"
+    },
+    {
+      "id": "app_layout_tsx",
+      "label": "layout.tsx",
+      "file_type": "code",
+      "source_file": "app/layout.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "app_menu_identitas_page_tsx",
+      "label": "page.tsx",
+      "file_type": "code",
+      "source_file": "app/(menu)/identitas/page.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "identitas_page_identitaspage",
+      "label": "IdentitasPage()",
+      "file_type": "code",
+      "source_file": "app/(menu)/identitas/page.tsx",
+      "source_location": "L6"
+    },
+    {
+      "id": "app_menu_identitas_components_identityform_tsx",
+      "label": "IdentityForm.tsx",
+      "file_type": "code",
+      "source_file": "app/(menu)/identitas/components/IdentityForm.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "components_identityform_handlesave",
+      "label": "handleSave()",
+      "file_type": "code",
+      "source_file": "app/(menu)/identitas/components/IdentityForm.tsx",
+      "source_location": "L32"
+    },
+    {
+      "id": "app_menu_incidents_page_tsx",
+      "label": "page.tsx",
+      "file_type": "code",
+      "source_file": "app/(menu)/incidents/page.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "incidents_page_incidentspage",
+      "label": "IncidentsPage()",
+      "file_type": "code",
+      "source_file": "app/(menu)/incidents/page.tsx",
+      "source_location": "L5"
+    },
+    {
+      "id": "app_menu_incidents_components_incidentlist_tsx",
+      "label": "IncidentList.tsx",
+      "file_type": "code",
+      "source_file": "app/(menu)/incidents/components/IncidentList.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "components_incidentlist_incidentlist",
+      "label": "IncidentList()",
+      "file_type": "code",
+      "source_file": "app/(menu)/incidents/components/IncidentList.tsx",
+      "source_location": "L7"
+    },
+    {
+      "id": "app_sla_monitor_types_ts",
+      "label": "types.ts",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/types.ts",
+      "source_location": "L1"
+    },
+    {
+      "id": "app_sla_monitor_components_fab_tsx",
+      "label": "FAB.tsx",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/components/FAB.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "components_fab_fab",
+      "label": "FAB()",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/components/FAB.tsx",
+      "source_location": "L8"
+    },
+    {
+      "id": "app_sla_monitor_components_monitorshell_tsx",
+      "label": "MonitorShell.tsx",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/components/MonitorShell.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "components_monitorshell_handlefab",
+      "label": "handleFab()",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/components/MonitorShell.tsx",
+      "source_location": "L37"
+    },
+    {
+      "id": "components_monitorshell_handleendincident",
+      "label": "handleEndIncident()",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/components/MonitorShell.tsx",
+      "source_location": "L39"
+    },
+    {
+      "id": "app_sla_monitor_components_sidebar_tsx",
+      "label": "Sidebar.tsx",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/components/Sidebar.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "components_sidebar_sidebar",
+      "label": "Sidebar()",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/components/Sidebar.tsx",
+      "source_location": "L16"
+    },
+    {
+      "id": "app_sla_monitor_components_endincidentmodal_tsx",
+      "label": "EndIncidentModal.tsx",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/components/EndIncidentModal.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "components_endincidentmodal_handleend",
+      "label": "handleEnd()",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/components/EndIncidentModal.tsx",
+      "source_location": "L34"
+    },
+    {
+      "id": "app_sla_monitor_components_incidenttable_tsx",
+      "label": "IncidentTable.tsx",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/components/IncidentTable.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "app_sla_monitor_components_newincidentmodal_tsx",
+      "label": "NewIncidentModal.tsx",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/components/NewIncidentModal.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "components_newincidentmodal_toggleunit",
+      "label": "toggleUnit()",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/components/NewIncidentModal.tsx",
+      "source_location": "L46"
+    },
+    {
+      "id": "components_newincidentmodal_handlesave",
+      "label": "handleSave()",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/components/NewIncidentModal.tsx",
+      "source_location": "L50"
+    },
+    {
+      "id": "app_sla_monitor_components_toast_tsx",
+      "label": "Toast.tsx",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/components/Toast.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "components_toast_toast",
+      "label": "Toast()",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/components/Toast.tsx",
+      "source_location": "L9"
+    },
+    {
+      "id": "app_sla_monitor_utils_formatters_ts",
+      "label": "formatters.ts",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/utils/formatters.ts",
+      "source_location": "L1"
+    },
+    {
+      "id": "utils_formatters_uid",
+      "label": "uid()",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/utils/formatters.ts",
+      "source_location": "L1"
+    },
+    {
+      "id": "utils_formatters_getcurrentmonth",
+      "label": "getCurrentMonth()",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/utils/formatters.ts",
+      "source_location": "L5"
+    },
+    {
+      "id": "utils_formatters_pad",
+      "label": "pad()",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/utils/formatters.ts",
+      "source_location": "L10"
+    },
+    {
+      "id": "utils_formatters_tolocalinput",
+      "label": "toLocalInput()",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/utils/formatters.ts",
+      "source_location": "L14"
+    },
+    {
+      "id": "utils_formatters_formatdate",
+      "label": "formatDate()",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/utils/formatters.ts",
+      "source_location": "L19"
+    },
+    {
+      "id": "utils_formatters_formatdt",
+      "label": "formatDT()",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/utils/formatters.ts",
+      "source_location": "L25"
+    },
+    {
+      "id": "utils_formatters_fmtduration",
+      "label": "fmtDuration()",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/utils/formatters.ts",
+      "source_location": "L31"
+    },
+    {
+      "id": "utils_formatters_formattimerstring",
+      "label": "formatTimerString()",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/utils/formatters.ts",
+      "source_location": "L36"
+    },
+    {
+      "id": "app_sla_monitor_utils_calculations_ts",
+      "label": "calculations.ts",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/utils/calculations.ts",
+      "source_location": "L1"
+    },
+    {
+      "id": "utils_calculations_getmonthincidents",
+      "label": "getMonthIncidents()",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/utils/calculations.ts",
+      "source_location": "L3"
+    },
+    {
+      "id": "utils_calculations_calcmetrics",
+      "label": "calcMetrics()",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/utils/calculations.ts",
+      "source_location": "L19"
+    },
+    {
+      "id": "app_sla_monitor_utils_seed_data_ts",
+      "label": "seed-data.ts",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/utils/seed-data.ts",
+      "source_location": "L1"
+    },
+    {
+      "id": "utils_seed_data_createseeddata",
+      "label": "createSeedData()",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/utils/seed-data.ts",
+      "source_location": "L4"
+    },
+    {
+      "id": "app_sla_monitor_utils_constants_ts",
+      "label": "constants.ts",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/utils/constants.ts",
+      "source_location": "L1"
+    },
+    {
+      "id": "app_sla_monitor_context_monitoractions_tsx",
+      "label": "MonitorActions.tsx",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/context/MonitorActions.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "context_monitoractions_usemonitoractions",
+      "label": "useMonitorActions()",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/context/MonitorActions.tsx",
+      "source_location": "L15"
+    },
+    {
+      "id": "app_sla_monitor_context_slaprovider_tsx",
+      "label": "SLAProvider.tsx",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/context/SLAProvider.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "context_slaprovider_usesla",
+      "label": "useSLA()",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/context/SLAProvider.tsx",
+      "source_location": "L32"
+    },
+    {
+      "id": "context_slaprovider_slaprovider",
+      "label": "SLAProvider()",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/context/SLAProvider.tsx",
+      "source_location": "L38"
+    },
+    {
+      "id": "app_sla_monitor_hooks_useincidents_ts",
+      "label": "useIncidents.ts",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/hooks/useIncidents.ts",
+      "source_location": "L1"
+    },
+    {
+      "id": "hooks_useincidents_useincidents",
+      "label": "useIncidents()",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/hooks/useIncidents.ts",
+      "source_location": "L10"
+    },
+    {
+      "id": "app_sla_monitor_hooks_usetoast_ts",
+      "label": "useToast.ts",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/hooks/useToast.ts",
+      "source_location": "L1"
+    },
+    {
+      "id": "hooks_usetoast_usetoast",
+      "label": "useToast()",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/hooks/useToast.ts",
+      "source_location": "L5"
+    },
+    {
+      "id": "app_sla_monitor_hooks_useconfig_ts",
+      "label": "useConfig.ts",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/hooks/useConfig.ts",
+      "source_location": "L1"
+    },
+    {
+      "id": "hooks_useconfig_useconfig",
+      "label": "useConfig()",
+      "file_type": "code",
+      "source_file": "app/sla-monitor/hooks/useConfig.ts",
+      "source_location": "L16"
+    },
+    {
+      "id": "agents_breaking_changes",
+      "label": "Next.js Breaking Changes",
+      "file_type": "document",
+      "source_file": "AGENTS.md",
+      "rationale": "Warns about custom Next.js APIs and structure that differ from standard training data."
+    },
+    {
+      "id": "readme_sla_monitor",
+      "label": "SLA Monitor Application",
+      "file_type": "document",
+      "source_file": "README.md",
+      "rationale": "Project documentation for the KPI/SLA monitoring app."
+    },
+    {
+      "id": "claude_agent_rules",
+      "label": "Claude Agent Rules",
+      "file_type": "document",
+      "source_file": "CLAUDE.md"
+    },
+    {
+      "id": "window_icon",
+      "label": "Window Icon",
+      "file_type": "image",
+      "source_file": "public/window.svg"
+    },
+    {
+      "id": "globe_icon",
+      "label": "Globe Icon",
+      "file_type": "image",
+      "source_file": "public/globe.svg"
+    },
+    {
+      "id": "next_logo",
+      "label": "Next.js Logo",
+      "file_type": "image",
+      "source_file": "public/next.svg"
+    },
+    {
+      "id": "file_icon",
+      "label": "File Icon",
+      "file_type": "image",
+      "source_file": "public/file.svg"
+    },
+    {
+      "id": "vercel_logo",
+      "label": "Vercel Logo",
+      "file_type": "image",
+      "source_file": "public/vercel.svg"
+    }
+  ],
+  "edges": [
+    {
+      "source": "next_env_d_ts",
+      "target": "home_masadmin_kpi_apps_next_types_routes_d_ts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "next-env.d.ts",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "eslint_config_mjs",
+      "target": "config",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "eslint.config.mjs",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "eslint_config_mjs",
+      "target": "core_web_vitals",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "eslint.config.mjs",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "eslint_config_mjs",
+      "target": "typescript",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "eslint.config.mjs",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "next_config_ts",
+      "target": "next",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "next.config.ts",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "app_page_tsx",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_context_slaprovider",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/page.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "app_page_tsx",
+      "target": "app_page_dashboardpage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/page.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "app_layout_tsx",
+      "target": "next",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/layout.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "app_layout_tsx",
+      "target": "google",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/layout.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "app_layout_tsx",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_context_slaprovider",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/layout.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "app_layout_tsx",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_components_monitorshell",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/layout.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "app_layout_tsx",
+      "target": "home_masadmin_kpi_apps_app_globals_css",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/layout.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "app_menu_identitas_page_tsx",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_context_slaprovider",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/(menu)/identitas/page.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "app_menu_identitas_page_tsx",
+      "target": "home_masadmin_kpi_apps_app_menu_identitas_components_identityform",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/(menu)/identitas/page.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "app_menu_identitas_page_tsx",
+      "target": "identitas_page_identitaspage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/(menu)/identitas/page.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "app_menu_identitas_components_identityform_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/(menu)/identitas/components/IdentityForm.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "app_menu_identitas_components_identityform_tsx",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_types",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/(menu)/identitas/components/IdentityForm.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "app_menu_identitas_components_identityform_tsx",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_utils_constants",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/(menu)/identitas/components/IdentityForm.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "app_menu_identitas_components_identityform_tsx",
+      "target": "components_identityform_handlesave",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/(menu)/identitas/components/IdentityForm.tsx",
+      "source_location": "L32",
+      "weight": 1.0
+    },
+    {
+      "source": "app_menu_incidents_page_tsx",
+      "target": "home_masadmin_kpi_apps_app_menu_incidents_components_incidentlist",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/(menu)/incidents/page.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "app_menu_incidents_page_tsx",
+      "target": "incidents_page_incidentspage",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/(menu)/incidents/page.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "app_menu_incidents_components_incidentlist_tsx",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_context_slaprovider",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/(menu)/incidents/components/IncidentList.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "app_menu_incidents_components_incidentlist_tsx",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_context_monitoractions",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/(menu)/incidents/components/IncidentList.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "app_menu_incidents_components_incidentlist_tsx",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_components_incidenttable",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/(menu)/incidents/components/IncidentList.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "app_menu_incidents_components_incidentlist_tsx",
+      "target": "components_incidentlist_incidentlist",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/(menu)/incidents/components/IncidentList.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_components_fab_tsx",
+      "target": "components_fab_fab",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/components/FAB.tsx",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_components_monitorshell_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/components/MonitorShell.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_components_monitorshell_tsx",
+      "target": "navigation",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/components/MonitorShell.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_components_monitorshell_tsx",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_components_sidebar",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/components/MonitorShell.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_components_monitorshell_tsx",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_components_toast",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/components/MonitorShell.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_components_monitorshell_tsx",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_components_fab",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/components/MonitorShell.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_components_monitorshell_tsx",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_components_newincidentmodal",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/components/MonitorShell.tsx",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_components_monitorshell_tsx",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_components_endincidentmodal",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/components/MonitorShell.tsx",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_components_monitorshell_tsx",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_context_slaprovider",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/components/MonitorShell.tsx",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_components_monitorshell_tsx",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_context_monitoractions",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/components/MonitorShell.tsx",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_components_monitorshell_tsx",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_utils_constants",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/components/MonitorShell.tsx",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_components_monitorshell_tsx",
+      "target": "components_monitorshell_handlefab",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/components/MonitorShell.tsx",
+      "source_location": "L37",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_components_monitorshell_tsx",
+      "target": "components_monitorshell_handleendincident",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/components/MonitorShell.tsx",
+      "source_location": "L39",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_components_sidebar_tsx",
+      "target": "link",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/components/Sidebar.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_components_sidebar_tsx",
+      "target": "navigation",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/components/Sidebar.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_components_sidebar_tsx",
+      "target": "components_sidebar_sidebar",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/components/Sidebar.tsx",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_components_endincidentmodal_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/components/EndIncidentModal.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_components_endincidentmodal_tsx",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_utils_formatters",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/components/EndIncidentModal.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_components_endincidentmodal_tsx",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_utils_constants",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/components/EndIncidentModal.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_components_endincidentmodal_tsx",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_types",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/components/EndIncidentModal.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_components_endincidentmodal_tsx",
+      "target": "components_endincidentmodal_handleend",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/components/EndIncidentModal.tsx",
+      "source_location": "L34",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_components_incidenttable_tsx",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_types",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/components/IncidentTable.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_components_incidenttable_tsx",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_utils_formatters",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/components/IncidentTable.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_components_newincidentmodal_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/components/NewIncidentModal.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_components_newincidentmodal_tsx",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_utils_formatters",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/components/NewIncidentModal.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_components_newincidentmodal_tsx",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_utils_constants",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/components/NewIncidentModal.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_components_newincidentmodal_tsx",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_types",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/components/NewIncidentModal.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_components_newincidentmodal_tsx",
+      "target": "components_newincidentmodal_toggleunit",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/components/NewIncidentModal.tsx",
+      "source_location": "L46",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_components_newincidentmodal_tsx",
+      "target": "components_newincidentmodal_handlesave",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/components/NewIncidentModal.tsx",
+      "source_location": "L50",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_components_toast_tsx",
+      "target": "components_toast_toast",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/components/Toast.tsx",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_utils_formatters_ts",
+      "target": "utils_formatters_uid",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/utils/formatters.ts",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_utils_formatters_ts",
+      "target": "utils_formatters_getcurrentmonth",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/utils/formatters.ts",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_utils_formatters_ts",
+      "target": "utils_formatters_pad",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/utils/formatters.ts",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_utils_formatters_ts",
+      "target": "utils_formatters_tolocalinput",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/utils/formatters.ts",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_utils_formatters_ts",
+      "target": "utils_formatters_formatdate",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/utils/formatters.ts",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_utils_formatters_ts",
+      "target": "utils_formatters_formatdt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/utils/formatters.ts",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_utils_formatters_ts",
+      "target": "utils_formatters_fmtduration",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/utils/formatters.ts",
+      "source_location": "L31",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_utils_formatters_ts",
+      "target": "utils_formatters_formattimerstring",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/utils/formatters.ts",
+      "source_location": "L36",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_formatters_formatdate",
+      "target": "utils_formatters_pad",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/utils/formatters.ts",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_formatters_formatdt",
+      "target": "utils_formatters_pad",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/utils/formatters.ts",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_formatters_formattimerstring",
+      "target": "utils_formatters_pad",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/utils/formatters.ts",
+      "source_location": "L41",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_utils_calculations_ts",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_types",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/utils/calculations.ts",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_utils_calculations_ts",
+      "target": "utils_calculations_getmonthincidents",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/utils/calculations.ts",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_utils_calculations_ts",
+      "target": "utils_calculations_calcmetrics",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/utils/calculations.ts",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_calculations_calcmetrics",
+      "target": "utils_calculations_getmonthincidents",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/utils/calculations.ts",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_utils_seed_data_ts",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_types",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/utils/seed-data.ts",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_utils_seed_data_ts",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_utils_formatters",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/utils/seed-data.ts",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_utils_seed_data_ts",
+      "target": "utils_seed_data_createseeddata",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/utils/seed-data.ts",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_context_monitoractions_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/context/MonitorActions.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_context_monitoractions_tsx",
+      "target": "context_monitoractions_usemonitoractions",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/context/MonitorActions.tsx",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_context_slaprovider_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/context/SLAProvider.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_context_slaprovider_tsx",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_hooks_useincidents",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/context/SLAProvider.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_context_slaprovider_tsx",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_hooks_useconfig",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/context/SLAProvider.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_context_slaprovider_tsx",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_hooks_usetoast",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/context/SLAProvider.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_context_slaprovider_tsx",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_utils_calculations",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/context/SLAProvider.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_context_slaprovider_tsx",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_types",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/context/SLAProvider.tsx",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_context_slaprovider_tsx",
+      "target": "context_slaprovider_usesla",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/context/SLAProvider.tsx",
+      "source_location": "L32",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_context_slaprovider_tsx",
+      "target": "context_slaprovider_slaprovider",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/context/SLAProvider.tsx",
+      "source_location": "L38",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_hooks_useincidents_ts",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/hooks/useIncidents.ts",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_hooks_useincidents_ts",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_types",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/hooks/useIncidents.ts",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_hooks_useincidents_ts",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_utils_seed_data",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/hooks/useIncidents.ts",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_hooks_useincidents_ts",
+      "target": "hooks_useincidents_useincidents",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/hooks/useIncidents.ts",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_hooks_usetoast_ts",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/hooks/useToast.ts",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_hooks_usetoast_ts",
+      "target": "hooks_usetoast_usetoast",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/hooks/useToast.ts",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_hooks_useconfig_ts",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/hooks/useConfig.ts",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_hooks_useconfig_ts",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_types",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/hooks/useConfig.ts",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_hooks_useconfig_ts",
+      "target": "home_masadmin_kpi_apps_app_sla_monitor_utils_formatters",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/hooks/useConfig.ts",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "app_sla_monitor_hooks_useconfig_ts",
+      "target": "hooks_useconfig_useconfig",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/sla-monitor/hooks/useConfig.ts",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "app_page_dashboardpage",
+      "target": "context_slaprovider_usesla",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/page.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "identitas_page_identitaspage",
+      "target": "context_slaprovider_usesla",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/(menu)/identitas/page.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "components_incidentlist_incidentlist",
+      "target": "context_slaprovider_usesla",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/(menu)/incidents/components/IncidentList.tsx",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "components_incidentlist_incidentlist",
+      "target": "context_monitoractions_usemonitoractions",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/(menu)/incidents/components/IncidentList.tsx",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "components_newincidentmodal_handlesave",
+      "target": "utils_formatters_uid",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/sla-monitor/components/NewIncidentModal.tsx",
+      "source_location": "L56",
+      "weight": 1.0
+    },
+    {
+      "source": "utils_seed_data_createseeddata",
+      "target": "utils_formatters_uid",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/sla-monitor/utils/seed-data.ts",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "context_slaprovider_slaprovider",
+      "target": "hooks_useincidents_useincidents",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/sla-monitor/context/SLAProvider.tsx",
+      "source_location": "L39",
+      "weight": 1.0
+    },
+    {
+      "source": "context_slaprovider_slaprovider",
+      "target": "hooks_useconfig_useconfig",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/sla-monitor/context/SLAProvider.tsx",
+      "source_location": "L40",
+      "weight": 1.0
+    },
+    {
+      "source": "context_slaprovider_slaprovider",
+      "target": "hooks_usetoast_usetoast",
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/sla-monitor/context/SLAProvider.tsx",
+      "source_location": "L41",
+      "weight": 1.0
+    },
+    {
+      "source": "agents_breaking_changes",
+      "target": "agents_nextjs_guide",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AGENTS.md",
+      "weight": 1.0
+    },
+    {
+      "source": "readme_sla_monitor",
+      "target": "next_logo",
+      "relation": "uses_framework",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "README.md",
+      "weight": 1.0
+    },
+    {
+      "source": "next_logo",
+      "target": "vercel_logo",
+      "relation": "branded_by",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "public/next.svg",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

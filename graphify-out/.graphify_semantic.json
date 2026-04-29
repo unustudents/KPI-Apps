@@ -1,0 +1,86 @@
+{
+  "nodes": [
+    {
+      "id": "agents_breaking_changes",
+      "label": "Next.js Breaking Changes",
+      "file_type": "document",
+      "source_file": "AGENTS.md",
+      "rationale": "Warns about custom Next.js APIs and structure that differ from standard training data."
+    },
+    {
+      "id": "readme_sla_monitor",
+      "label": "SLA Monitor Application",
+      "file_type": "document",
+      "source_file": "README.md",
+      "rationale": "Project documentation for the KPI/SLA monitoring app."
+    },
+    {
+      "id": "claude_agent_rules",
+      "label": "Claude Agent Rules",
+      "file_type": "document",
+      "source_file": "CLAUDE.md"
+    },
+    {
+      "id": "window_icon",
+      "label": "Window Icon",
+      "file_type": "image",
+      "source_file": "public/window.svg"
+    },
+    {
+      "id": "globe_icon",
+      "label": "Globe Icon",
+      "file_type": "image",
+      "source_file": "public/globe.svg"
+    },
+    {
+      "id": "next_logo",
+      "label": "Next.js Logo",
+      "file_type": "image",
+      "source_file": "public/next.svg"
+    },
+    {
+      "id": "file_icon",
+      "label": "File Icon",
+      "file_type": "image",
+      "source_file": "public/file.svg"
+    },
+    {
+      "id": "vercel_logo",
+      "label": "Vercel Logo",
+      "file_type": "image",
+      "source_file": "public/vercel.svg"
+    }
+  ],
+  "edges": [
+    {
+      "source": "agents_breaking_changes",
+      "target": "agents_nextjs_guide",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "AGENTS.md",
+      "weight": 1.0
+    },
+    {
+      "source": "readme_sla_monitor",
+      "target": "next_logo",
+      "relation": "uses_framework",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "README.md",
+      "weight": 1.0
+    },
+    {
+      "source": "next_logo",
+      "target": "vercel_logo",
+      "relation": "branded_by",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "public/next.svg",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}
